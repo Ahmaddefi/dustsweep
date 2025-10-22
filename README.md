@@ -34,4 +34,4 @@ This entire project was developed on Android using Termux!
 
 ---
 
-Built with ❤️ by [Your Name]
+Built with ❤️ by Muhammadkabir Yaqub 
